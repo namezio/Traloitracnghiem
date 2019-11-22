@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tra loi trac nghiem</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tieude">ĐÂY LÀ ỨNG DỤNG ÔN THI TRẮC NGHIỆM                     TOÁN LÝ SINH</string>
+    <string name="luudiem">Lưu Điểm Thi</string>
+    <string name="thoat">Thoát</string>
+    <string name="choilai">Chơi Lại</string>
+    <string name="caudung">Câu đúng:</string>
+    <string name="causai">Câu sai:</string>
+    <string name="cauchuatraloi">Câu chưa trả lời:</string>
+    <string name="tongdiem">Tổng điểm:</string>
+    <string name="kiemtra">Kiểm Tra</string>
+    <string name="xemdiem">Xem điểm</string>
+    <string name="app_name1">Trả Lời Trắc Nghiệm</string>
+    <string name="Home">Home</string>
+    <string name="ok">ok</string>
+    <string name="danhsachdiem">Danh Sách Điểm</string>
+    <string name="name">Họ Tên</string>
+    <string name="phonghoc">Phòng Học</string>
+    <string name="score">  Điểm</string>
+    <string name="diem">Điểm Số</string>
+    <string name="sbd">Số Báo Danh</string>
+</resources>
