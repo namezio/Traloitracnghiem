@@ -8,6 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.namezio.traloitracnghiem.Model.Exam;
 import com.namezio.traloitracnghiem.R;
 
 import java.util.ArrayList;

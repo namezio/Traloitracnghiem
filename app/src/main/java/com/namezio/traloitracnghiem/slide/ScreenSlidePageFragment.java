@@ -14,7 +14,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 import com.namezio.traloitracnghiem.R;
-import com.namezio.traloitracnghiem.question.Question;
+import com.namezio.traloitracnghiem.Model.Question;
 
 import java.util.ArrayList;
 

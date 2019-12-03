@@ -10,6 +10,7 @@ import android.widget.ListView;
 import androidx.fragment.app.Fragment;
 
 import com.namezio.traloitracnghiem.MainActivity;
+import com.namezio.traloitracnghiem.Presenter.ScoreController;
 import com.namezio.traloitracnghiem.R;
 
 

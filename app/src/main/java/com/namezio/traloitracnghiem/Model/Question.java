@@ -1,4 +1,4 @@
-package com.namezio.traloitracnghiem.question;
+package com.namezio.traloitracnghiem.Model;
 
 import java.io.Serializable;
 

@@ -8,7 +8,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.namezio.traloitracnghiem.R;
-import com.namezio.traloitracnghiem.question.Question;
+import com.namezio.traloitracnghiem.Model.Question;
 
 import java.util.ArrayList;
 

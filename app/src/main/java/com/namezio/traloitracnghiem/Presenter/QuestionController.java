@@ -1,8 +1,11 @@
-package com.namezio.traloitracnghiem.question;
+package com.namezio.traloitracnghiem.Presenter;
 
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+
+import com.namezio.traloitracnghiem.Model.Question;
+import com.namezio.traloitracnghiem.question.DatabaseHelper;
 
 import java.util.ArrayList;
 

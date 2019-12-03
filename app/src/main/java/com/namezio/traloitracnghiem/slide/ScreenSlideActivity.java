@@ -18,8 +18,8 @@ import android.widget.GridView;
 import android.widget.TextView;
 
 import com.namezio.traloitracnghiem.R;
-import com.namezio.traloitracnghiem.question.Question;
-import com.namezio.traloitracnghiem.question.QuestionController;
+import com.namezio.traloitracnghiem.Model.Question;
+import com.namezio.traloitracnghiem.Presenter.QuestionController;
 
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;

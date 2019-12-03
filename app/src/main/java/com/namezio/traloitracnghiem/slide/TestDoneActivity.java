@@ -14,9 +14,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.namezio.traloitracnghiem.R;
-import com.namezio.traloitracnghiem.question.Question;
-import com.namezio.traloitracnghiem.score.Score;
-import com.namezio.traloitracnghiem.score.ScoreController;
+import com.namezio.traloitracnghiem.Model.Question;
+import com.namezio.traloitracnghiem.Model.Score;
+import com.namezio.traloitracnghiem.Presenter.ScoreController;
 
 import java.util.ArrayList;
 

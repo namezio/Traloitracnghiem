@@ -1,4 +1,4 @@
-package com.namezio.traloitracnghiem.score;
+package com.namezio.traloitracnghiem.Presenter;
 
 import android.content.ContentValues;
 import android.content.Context;

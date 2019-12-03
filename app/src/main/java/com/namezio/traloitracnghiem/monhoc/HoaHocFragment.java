@@ -12,6 +12,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 import com.namezio.traloitracnghiem.MainActivity;
+import com.namezio.traloitracnghiem.Model.Exam;
 import com.namezio.traloitracnghiem.R;
 import com.namezio.traloitracnghiem.slide.ScreenSlideActivity;
 

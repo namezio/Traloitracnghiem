@@ -1,4 +1,4 @@
-package com.namezio.traloitracnghiem.score;
+package com.namezio.traloitracnghiem.Model;
 
 public class Score {
     private  int id;

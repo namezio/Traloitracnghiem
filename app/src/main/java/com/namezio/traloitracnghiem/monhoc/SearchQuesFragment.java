@@ -16,7 +16,7 @@ import androidx.fragment.app.Fragment;
 import com.namezio.traloitracnghiem.MainActivity;
 import com.namezio.traloitracnghiem.R;
 import com.namezio.traloitracnghiem.question.QuestionAdapter;
-import com.namezio.traloitracnghiem.question.QuestionController;
+import com.namezio.traloitracnghiem.Presenter.QuestionController;
 
 
 public class SearchQuesFragment extends Fragment {

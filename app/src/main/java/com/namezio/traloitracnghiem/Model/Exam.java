@@ -1,4 +1,4 @@
-package com.namezio.traloitracnghiem.monhoc;
+package com.namezio.traloitracnghiem.Model;
 
 /**
  * Created by NguyenTuan on 11/10/2016.
